@@ -26,7 +26,7 @@ public class DummyData {
     post1.setAutor("Marcio Lisboa");
     post1.setData(LocalDate.now());
     post1.setTitulo("Spring");
-    post1.setTexto("Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.");
+    post1.setTexto("<p>Olá, para inserir um novo post:</p><p>Username: admin</p><p>Password: 123</p><p><br></p>");
 
     Post post2 = new Post();
     post2.setAutor("Dexter Morgan");
